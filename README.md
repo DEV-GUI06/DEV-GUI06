@@ -1,4 +1,4 @@
-<h2 align="center">About Me!</h2>
+<h2 align="left">About Me!</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">Techs!</h2>
+<h2 align="left">Techs!</h2>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="center">My stats!</h2>
+<h2 align="left">My stats!</h2>
 
 ###
 
