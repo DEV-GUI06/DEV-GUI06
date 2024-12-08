@@ -1,4 +1,26 @@
-<h2 align="left">My stats!</h2>
+<h2 align="center">About Me!</h2>
+
+###
+
+<p align="left">- Developer Student 👨🏾‍💻<br>- Content creator at @guilhermedev_ 📱</p>
+
+###
+
+<h2 align="center">Techs!</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<h2 align="center">My stats!</h2>
 
 ###
 
