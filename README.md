@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Developer Student 👨🏾‍💻<br>- Content creator at @guilhermedev_ 📱</p>
+<p align="left">- Developer Student 👨🏾‍💻<br>- Content creator at @guilhermedev_ 📱<br>- Gmail: guilhermebsdeveloper@gmail.com</p>
 
 ###
 
@@ -12,9 +12,6 @@
   </a>
   <a href="https://www.instagram.com/guilhermedev_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="58" height="40" alt="instagram logo"  />
-  </a>
-  <a href="guilhermebsdeveloper@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="58" height="40" alt="gmail logo"  />
   </a>
 </div>
 
