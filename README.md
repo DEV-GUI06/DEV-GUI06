@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <a href="[www.linkedin.com/in/guilherme-batista-santos](https://www.linkedin.com/in/guilherme-batista-santos/)" target="_blank">
+  <a href="www.linkedin.com/in/guilherme-batista-santos" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="58" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/guilhermedev_/" target="_blank">
