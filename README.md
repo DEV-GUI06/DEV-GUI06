@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Developer Student 👨🏾‍💻<br>- Content creator at @guilhermedev_ 📱<br>- Gmail: guilhermebsdeveloper@gmail.com</p>
+<p align="left">- Developer Student 👨🏾‍💻<br>- Content creator at @guilhermedev_ 📱<br>- Gmail: guilhermebsdeveloper@gmail.com ✉️<br>- Portfolio: https://dev-gui06.github.io/My-Portfolio/</p>
 
 ###
 
